@@ -1,5 +1,5 @@
 
-
+![logo](https://res.cloudinary.com/rishavrishi/image/upload/c_pad,b_auto:predominant,fl_preserve_transparency/v1686280281/fim-transformed_q2w9du.jpg?_s=public-apps)
 <h1 align="center">Hi 👋, I'm Rishav Yadav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
